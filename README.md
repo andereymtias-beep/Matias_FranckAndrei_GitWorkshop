@@ -1,4 +1,5 @@
 # Git Workshop - Basic Version Control
+This project was created for our Git Workshop laboratory activity. It demonstrates the basic use of Git and GitHub for version control.
 
 **Name:** Franck Andrei A. Matias
 
